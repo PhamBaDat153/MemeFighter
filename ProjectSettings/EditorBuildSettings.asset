@@ -9,9 +9,6 @@ EditorBuildSettings:
     path: Assets/MemeFighter/Scenes/MainMenu.unity
     guid: 7c757e0d1b34a284e9ff94b05d65e74c
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
     path: Assets/MemeFighter/Scenes/Arena_TriplePlatform.unity
     guid: c0531b80654912a42ac27fc2a53802d4
   m_configObjects:
